@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "5a16",
+      "cityName": "Dikhil",
+      "country": "Ethiopia",
+      "emoji": "🇩🇯",
+      "date": "Wed Sep 04 2024",
+      "notes": "jk",
+      "position": {
+        "lat": "11.593050570216564",
+        "lng": "41.99798583984376"
+      }
+    },
+    {
+      "id": "e954",
+      "cityName": "Tazrouk",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "Wed Sep 04 2024",
+      "notes": "admin of ertale\n",
+      "position": {
+        "lat": "21.289374355860424",
+        "lng": "7.734375000000001"
+      }
+    },
+    {
+      "id": "1e5d",
+      "cityName": "Termaber",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "Sat Sep 07 2024",
+      "notes": "some text",
+      "position": {
+        "lat": "9.817329187067783",
+        "lng": "39.83642578125"
+      }
+    },
+    {
+      "id": "e7d4",
+      "cityName": "Aleltu",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "Sat Sep 07 2024",
+      "notes": "sosdfsdi",
+      "position": {
+        "lat": "9.145486056167277",
+        "lng": "39.13330078125001"
+      }
+    },
+    {
+      "id": "78a8",
+      "cityName": "‘Uqlat as Suqur",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "Sat Sep 07 2024",
+      "notes": "gugui",
+      "position": {
+        "lat": "25.681137335685307",
+        "lng": "41.61621093750001"
+      }
+    },
+    {
+      "id": "843b",
+      "cityName": "Korem",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "Sun Oct 20 2024",
+      "notes": "hashenge",
+      "position": {
+        "lat": "12.586732432464062",
+        "lng": "39.49996948242188"
+      }
+    },
+    {
+      "id": "8d60",
+      "cityName": "Mek'ele",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "Sun Oct 20 2024",
+      "notes": "mekelle",
+      "position": {
+        "lat": "13.523178603049868",
+        "lng": "39.539794921875"
+      }
+    },
+    {
+      "id": "a9a3",
+      "cityName": "Adwa",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "Sun Oct 20 2024",
+      "notes": "adwa",
+      "position": {
+        "lat": "14.195163013871356",
+        "lng": "38.86962890625001"
+      }
+    },
+    {
+      "id": "16f8",
+      "cityName": "Adi Remets",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "Sun Oct 20 2024",
+      "notes": "adi remets",
+      "position": {
+        "lat": "13.683350573778403",
+        "lng": "37.43591308593751"
+      }
+    }
+  ]
+}
